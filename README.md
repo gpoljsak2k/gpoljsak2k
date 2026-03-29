@@ -41,7 +41,7 @@ Highlights:
 
 ### 🔹 price-tracker
 
-A modular CLI price tracking system with unit price normalization, basket comparison and automated CI testing.
+A grocery price intelligence tool with unit normalization, store comparison, and a Streamlit UI.
 
 Tech stack:
 
@@ -49,15 +49,16 @@ Tech stack:
 * SQLite
 * Pytest
 * GitHub Actions (CI)
+* Streamlit UI
 
 Highlights:
 
-* Layered architecture (repos / services / CLI)
-* Unit price normalization (€/kg, €/l, €/pcs)
-* Trend analysis & basket comparison
-* Full test suite + CI pipeline
+* Cheapest product detection
+* Basket cost optimization
+* Price history & trends
+* Automated scraping + CI
 
-👉 https://github.com/gpoljsak2k/price-tracker
+👉 https://github.com/gpoljsak2k/price-tracker-v2
 
 ---
 

@@ -1,31 +1,61 @@
 # Hi, I'm Gašper 👋
 
-Biotech student building backend & data-oriented Python projects.
+Biotech student building fullstack and data-oriented applications with a focus on backend systems.
 
 Currently focused on:
-- Backend architecture & clean layering
-- Data normalization & analytics
-- Testing & CI pipelines
-- Preparing for real-world data ingestion (scraping)
+
+* Backend architecture & clean layering
+* REST API design (FastAPI)
+* Data modeling & relational databases (PostgreSQL)
+* Testing & CI pipelines
+* Deploying production-ready applications (Docker, Render)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🔹 Issue Tracker (Fullstack)
+
+A fullstack issue tracking system (Jira-like) with authentication, role-based access, and project management.
+
+Tech stack:
+
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* React (Vite)
+* Docker
+* Render
+
+Highlights:
+
+* JWT authentication & role-based permissions
+* Layered backend architecture (API / schemas / services / models)
+* Advanced filtering, pagination & search
+* Full deployment (frontend + backend + database)
+* Solved real-world issues (CORS, env configs, API integration)
+
+👉 https://github.com/gpoljsak2k/Issue-Tracker-V-2.0
+
+---
 
 ### 🔹 price-tracker
+
 A modular CLI price tracking system with unit price normalization, basket comparison and automated CI testing.
 
 Tech stack:
-- Python
-- SQLite
-- Pytest
-- GitHub Actions (CI)
+
+* Python
+* SQLite
+* Pytest
+* GitHub Actions (CI)
 
 Highlights:
-- Layered architecture (repos / services / CLI)
-- Unit price normalization (€/kg, €/l, €/pcs)
-- Trend analysis & basket comparison
-- Full test suite + CI pipeline
+
+* Layered architecture (repos / services / CLI)
+* Unit price normalization (€/kg, €/l, €/pcs)
+* Trend analysis & basket comparison
+* Full test suite + CI pipeline
 
 👉 https://github.com/gpoljsak2k/price-tracker
 
@@ -33,25 +63,29 @@ Highlights:
 
 ## 🛠 Tech
 
-- Python
-- SQL (SQLite)
-- Git / GitHub
-- Pytest
-- Basic Linux / CLI tooling
+* Python
+* FastAPI
+* SQL (PostgreSQL, SQLite)
+* React (basic)
+* Docker
+* Git / GitHub
+* Pytest
 
 Currently learning:
-- Web scraping & data ingestion pipelines
-- FastAPI
-- Production-style backend design
+
+* Scalable backend design
+* Data pipelines & ingestion
+* System design fundamentals
 
 ---
 
 ## 📈 Goals
 
 Build data-driven backend systems that:
-- are testable,
-- have clear separation of concerns,
-- and are production-ready.
+
+* are well-structured and maintainable,
+* handle real-world data,
+* and are production-ready.
 
 ---
 

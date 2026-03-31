@@ -20,9 +20,11 @@ A fullstack issue tracking system (Jira-like) with authentication, role-based ac
 
 Tech stack:
 
+* Python
 * FastAPI
 * PostgreSQL
 * SQLAlchemy
+* JavaScript
 * React (Vite)
 * Docker
 * Render
